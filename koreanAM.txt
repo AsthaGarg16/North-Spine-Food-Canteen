@@ -1,0 +1,7 @@
+Monday: -Kimchi Breakfast Set   $3.50, -Kimchi Porridge   $3.50, -Kimbab   $3.00, -Galbitang   $4.50, -Bulgogi   $4.00
+Tuesday: -BBQ Chicken with Rice   $3.00, -Spicy Rice Cake with Egg   $1.50, -Egg Sandwich   $2.50, -Ham Sandwich   $2.50, -Egg and Ham Sandwich   $3.00
+Wednesday: -Kimchi Breakfast Set   $3.50, -Kimchi Porridge   $3.50, -Kimbab   $3.00, -Galbitang   $4.50, -Bulgogi   $4.00
+Thursday: -BBQ Chicken with Rice   $3.00, -Spicy Rice Cake with Egg   $1.50, -Egg Sandwich   $2.50, -Ham Sandwich   $2.50, -Egg and Ham Sandwich   $3.00
+Friday: -Kimchi Breakfast Set   $3.50, -Kimchi Porridge   $3.50, -Kimbab   $3.00, -Galbitang   $4.50, -Bulgogi   $4.00
+Saturday: Korean Stall is close on Saturday
+Sunday: Korean Stall is close on Sunday

@@ -1,0 +1,7 @@
+Monday: -Porridge White Chicken with Egg   $2.50, -Porridge Roasted Chicken with Egg   $2.50
+Tuesday: -Macaroni White Chicken  $3.50, -Macaroni Roasted Chicken   $3.50
+Wednesday: -Porridge White Chicken with Egg   $2.50, -Porridge Roasted Chicken with Egg   $2.50
+Thursday: -Macaroni White Chicken  $3.50, -Macaroni Roasted Chicken   $3.50
+Friday: -Porridge White Chicken with Egg   $2.50, -Porridge Roasted Chicken with Egg   $2.50
+Saturday": "Chicken Rice Stall is close on Saturday
+Sunday: Chicken Rice Stall is close on Sunday

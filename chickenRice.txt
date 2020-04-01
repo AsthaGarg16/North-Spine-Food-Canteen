@@ -1,0 +1,7 @@
+Monday: -White Chicken Rice   $3.00, -Roasted Chicken Rice   $3.00, -Crispy Pork Rice   $3.50, -Char Shao Rice   $3.50, -Macaroni Soup   $3.50
+Tuesday: -Set A with Chicken Soup    $4.50, -Set B with Noodle    $4.50, -Roasted Chicken Noodle   $3.00, -White Chicken Noodle   $3.00, -Mix Chicken Noodle Set   $3.50
+Wednesday: -White Chicken Rice   $3.00, -Roasted Chicken Rice   $3.00, -Crispy Pork Rice   $3.50, -Char Shao Rice   $3.50, -Macaroni Soup   $3.50
+Thursday: -Set A with Chicken Soup    $4.50, -Set B with Noodle    $4.50, -Roasted Chicken Noodle   $3.00, -White Chicken Noodle   $3.00, -Mix Chicken Noodle Set   $3.50
+Friday: -White Chicken Rice   $3.00, -Roasted Chicken Rice   $3.00, -Crispy Pork Rice   $3.50, -Char Shao Rice   $3.50, -Macaroni Soup   $3.50
+Saturday: Chicken Rice Stall is close on Saturday 
+Sunday: Chicken Rice Stall is close on Sunday

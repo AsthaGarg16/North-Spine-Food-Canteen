@@ -1,0 +1,7 @@
+Monday: -Sambal Fried Rice   $3.80, -Fried Rice   $3.50, -Fried Rice with Chicken   $3.80, -Salted Egg Prawn Fried Rice   $5.00, -Tom Yam Fried Rice   $4.50
+Tuesday: -Horfun    $4.50, -Mee Goreng    $4.00, -Ginger Beef Rice   $4.20, -Salted Fish Fried Rice   $4.50, -Fried Kway Teow   $4.00
+Wednesday: -Sambal Fried Rice   $3.80, -Fried Rice   $3.50, -Fried Rice with Chicken   $3.80, -Salted Egg Prawn Fried Rice   $5.00, -Tom Yam Fried Rice   $4.50
+Thursday: -Horfun    $4.50, -Mee Goreng    $4.00, -Ginger Beef Rice   $4.20, -Salted Fish Fried Rice   $4.50, -Fried Kway Teow   $4.00
+Friday: -Sambal Fried Rice   $3.80, -Fried Rice   $3.50, -Fried Rice with Chicken   $3.80, -Salted Egg Prawn Fried Rice   $5.00, -Tom Yam Fried Rice   $4.50
+Saturday: Miniwok Stall is close on Saturday
+Sunday: Miniwok Stall is close on Sunday

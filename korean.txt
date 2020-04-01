@@ -1,0 +1,7 @@
+Monday: -Kimchi Rice   $2.50, -BBQ chicken Set   $3.50, -Japchae Set   $4.00, -Bibimbap   $4.00, -Samgyetang   $5.50, -Hoeddeok     $5.00, -Bulgogi     $5.50, -Soft Tofu Stew      $3.50, -Mixed Seafood Stew      $5.50, -Seolleongtang       $6.00, -Kalguksu        $4.50, -Bo Ssam     $3.50
+Tuesday: -Spicy BBQ Chicken Set   $4.00, -Spicy Rice Cake Set   $2.50, -Ramyeon   $3.00, -Cheese Ramyeon   $3.30, -Chicken Ramyeon   $4.00
+Wednesday: -Kimchi Rice   $2.50, -BBQ chicken Set   $3.50, -Japchae Set   $4.00, -Bibimbap   $4.00, -Samgyetang   $5.50, -Hoeddeok     $5.00, -Bulgogi     $5.50, -Soft Tofu Stew      $3.50, -Mixed Seafood Stew      $5.50, -Seolleongtang       $6.00, -Kalguksu        $4.50, -Bo Ssam     $3.50
+Thursday: -Spicy BBQ Chicken Set   $4.00, -Spicy Rice Cake Set   $2.50, -Ramyeon   $3.00, -Cheese Ramyeon   $3.30, -Chicken Ramyeon   $4.00
+Friday: -Kimchi Rice   $2.50, -BBQ chicken Set   $3.50, -Japchae Set   $4.00, -Bibimbap   $4.00, -Samgyetang   $5.50, -Hoeddeok     $5.00, -Bulgogi     $5.50, -Soft Tofu Stew      $3.50, -Mixed Seafood Stew      $5.50, -Seolleongtang       $6.00, -Kalguksu        $4.50, -Bo Ssam     $3.50
+Saturday: Korean Stall is close on Saturday
+Sunday: Korean Stall is close on Sunday

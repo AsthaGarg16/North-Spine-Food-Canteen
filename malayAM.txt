@@ -1,0 +1,7 @@
+Monday: -Ayam Pandan   $3.00, -Nasi Lemak, $3.00, -Roti Canai   $3.00, -Mee Goreng   $2.50, -Maggie Goreng   $2.50
+Tuesday: -Mee Rebus  $2.50, -Mee Siam   $2.50, -Soto Ayam   $3.00, -Mee Soto   $2.50, -Mee Goreng   $2.50
+Wednesday: -Ayam Pandan   $3.00, -Nasi Lemak, $3.00, -Roti Canai   $3.00, -Mee Goreng   $2.50, -Maggie Goreng   $2.50
+Thursday: -Mee Rebus  $2.50, -Mee Siam   $2.50, -Soto Ayam   $3.00, -Mee Soto   $2.50, -Mee Goreng   $2.50
+Friday: -Ayam Pandan   $3.00, -Nasi Lemak, $3.00, -Roti Canai   $3.00, -Mee Goreng   $2.50, -Maggie Goreng   $2.50
+Saturday: Malay Stall is close on Saturday
+Sunday: Malay Stall is close on Sunday

@@ -1,0 +1,7 @@
+Monday: -Mee Rebus  $2.50, -Mee Siam   $2.50, -Soto Ayam   $3.00, -Mee Soto   $2.50, -Mee Goreng   $2.50
+Tuesday: -Ayam Penyet   $4.50, -Ikan Dory   $4.50, -Crispy Chicken with Curry   $4.50, -Tahu Goreng   $3.00, -Mee Goreng with Egg   $3.00
+Wednesday: -Mee Rebus  $2.50, -Mee Siam   $2.50, -Soto Ayam   $3.00, -Mee Soto   $2.50, -Mee Goreng   $2.50
+Thursday: -Ayam Penyet   $4.50, -Ikan Dory   $4.50, -Crispy Chicken with Curry   $4.50, -Tahu Goreng   $3.00, -Mee Goreng with Egg   $3.00
+Friday: -Mee Rebus  $2.50, -Mee Siam   $2.50, -Soto Ayam   $3.00, -Mee Soto   $2.50, -Mee Goreng   $2.50
+Saturday: Malay Stall is close on Saturday
+Sunday: Malay Stall is close on Sunday

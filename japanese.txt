@@ -1,0 +1,7 @@
+Monday: -Sushi Roll A    $2.00, -Sushi Roll B    $2.00, -Tonkatsu Don   $4.00, -Chirashi Don   $5.00, -Teriyaki Chicken Set   $5.00
+Tuesday: -Ramen Set    $3.50, -Soba Set   $3.50, -Salmon Teriyaki Set   $5.50, -Salmon + Chicken Terikayi Set   $6.00, -Mentaiko Prawn Don   $5.50
+Wednesday: -Sushi Roll A    $2.00, -Sushi Roll B    $2.00, -Tonkatsu Don   $4.00, -Chirashi Don   $5.00, -Teriyaki Chicken Set   $5.00
+Thursday: -Ramen Set    $3.50, -Soba Set   $3.50, -Salmon Teriyaki Set   $5.50, -Salmon + Chicken Terikayi Set   $6.00, -Mentaiko Prawn Don   $5.50
+Friday: -Sushi Roll A    $2.00, -Sushi Roll B    $2.00, -Tonkatsu Don   $4.00, -Chirashi Don   $5.00, -Teriyaki Chicken Set   $5.00
+Saturday: Japanese Stall is close on Saturday
+Sunday: Japanese Stall is close on Sunday
